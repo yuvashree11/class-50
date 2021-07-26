@@ -1,0 +1,18 @@
+h1{
+    color:aqua
+}
+.header{
+    background-color:hotpink;
+    display: flex;
+    justify-content: space-between;
+}
+.grid{ 
+    display: inline;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+
+}
+p{
+    color:red;
+    text-align:center;
+}
